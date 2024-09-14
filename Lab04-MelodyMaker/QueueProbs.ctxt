@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QueueProbs
+comment1.params=
+comment1.target=QueueProbs()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ QueueProbs\r\n
+comment2.params=nums
+comment2.target=java.util.Queue\ evenFirst(java.util.Queue)
+comment3.params=N
+comment3.target=java.util.Stack\ seive(int)
+numComments=4
