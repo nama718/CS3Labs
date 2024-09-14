@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StackProbs
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nums
+comment2.target=java.util.Stack\ makeStack(int[])
+comment3.params=s
+comment3.target=java.util.Stack\ rev(java.util.Stack)
+comment4.params=nums
+comment4.target=java.util.Stack\ doubleUp(java.util.Stack)
+comment5.params=s
+comment5.target=java.util.Stack\ posAndNeg(java.util.Stack)
+comment6.params=s\ N
+comment6.target=java.util.Stack\ shiftByN(java.util.Stack,\ int)
+comment7.params=s
+comment7.target=java.lang.String\ reverseVowels(java.lang.String)
+comment8.params=s
+comment8.target=boolean\ bracketBalance(java.lang.String)
+numComments=9
