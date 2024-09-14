@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sorters
+comment1.params=f
+comment1.target=void\ BestFit(java.util.ArrayList)
+comment2.params=f
+comment2.target=void\ WorstFit(java.util.ArrayList)
+comment3.params=f
+comment3.target=void\ DecreasingFit(java.util.ArrayList)
+numComments=4

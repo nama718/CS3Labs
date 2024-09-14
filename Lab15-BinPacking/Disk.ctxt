@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Disk
+comment1.params=other
+comment1.target=int\ compareTo(Disk)
+comment2.params=i
+comment2.target=Disk(int)
+numComments=3
