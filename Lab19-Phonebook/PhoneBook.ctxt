@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PhoneBook
+comment1.params=
+comment1.target=PhoneBook()
+comment2.params=person\ phone
+comment2.target=PhoneNumber\ put(Person,\ PhoneNumber)
+comment3.params=person
+comment3.target=PhoneNumber\ get(Person)
+comment4.params=person
+comment4.target=PhoneNumber\ remove(Person)
+comment5.params=
+comment5.target=int\ size()
+numComments=6
