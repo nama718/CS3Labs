@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=
+comment1.target=int\ getRow()
+comment2.params=
+comment2.target=int\ getCol()
+comment3.params=
+comment3.target=Type\ getType()
+comment4.params=
+comment4.target=Status\ getStatus()
+comment5.params=s
+comment5.target=void\ setStatus(Status)
+comment6.params=row\ col\ type
+comment6.target=Square(int,\ int,\ Type)
+comment7.params=other
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=void\ reset()
+numComments=10

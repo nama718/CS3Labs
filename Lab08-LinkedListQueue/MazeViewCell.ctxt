@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MazeViewCell
+comment1.params=cell
+comment1.target=MazeViewCell(Square)
+comment2.params=cell
+comment2.target=void\ updateView(Square)
+comment3.params=
+comment3.target=void\ setWinSquare()
+comment4.params=
+comment4.target=void\ reset()
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment6.params=g\ text\ rect\ font
+comment6.target=void\ drawCenteredString(java.awt.Graphics,\ java.lang.String,\ java.awt.Rectangle,\ java.awt.Font)
+numComments=7
