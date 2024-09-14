@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PhotoMagic
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pic\ lfsr
+comment2.target=Picture\ transform(Picture,\ LFSR)
+numComments=3
